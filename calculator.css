@@ -1,0 +1,157 @@
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin_40 {
+    margin: 6% 0 0 45rem;
+}
+
+.background_clr {
+    background: #111111;
+}
+
+.h_w {
+    height: 38rem;
+    width: 28rem
+        /* height: 550px;
+    width: 348px; */
+}
+
+.radius {
+    border-radius: 20px
+}
+
+.f_clr {
+    color: coral;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.calculator_m {
+    margin-top: 12px;
+    margin-bottom: -15px;
+}
+
+
+.horizontal-line1 {
+    height: 1px;
+    width: 120px;
+    margin-bottom: 1px;
+}
+
+.input {
+    text-align: end;
+    border-color: #030303;
+    color: azure;
+    font-size: -webkit-xxx-large;
+    font-family: math;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    height: 100px;
+    width: 342px;
+    background-color: black;
+}
+
+.horizontal-line2 {
+    height: 1px;
+    width: 235px;
+    margin-top: 5px;
+}
+
+.font_all {
+    font-size: 25px;
+    font-family: Microsoft Tai Le;
+    font-weight: 500;
+}
+
+.int_clr {
+    color: #E8E8E8;
+}
+
+.btn_bground {
+    background-color: #080808;
+    /* background-color: #030303; */
+}
+
+.exp_bground {
+    background-color: #262626;
+}
+
+.int_font {
+    font-family: Copperplate;
+    font-size: 30px;
+    font-weight: inherit;
+}
+
+.div1_m {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    min-width: -webkit-fill-available;
+}
+
+.div2_m {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    min-width: -webkit-fill-available;
+    margin-top: 15px;
+}
+
+.div3_m {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    min-width: -webkit-fill-available;
+    margin-top: 15px;
+}
+
+.div4_m {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    min-width: -webkit-fill-available;
+    margin-top: 15px;
+}
+
+.div5_m {
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+.button_design {
+    border-radius: 84.5px;
+    height: 70px;
+    width: 70px;
+}
+
+.button {
+    cursor: grab;
+}
+
+
+.equal_button_design {
+    border-radius: 84.5px;
+    height: 70px;
+    width: 70px;
+
+}
+
+.clr_button_design {
+    font-family: Microsoft Tai Le;
+    font-size: x-large;
+    border-radius: 9px;
+    height: 55px;
+    width: 300px;
+    border-color: chocolate;
+}
